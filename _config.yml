@@ -1,0 +1,22 @@
+# Site
+title: I'm Anthony Mun
+description: My Personal Blog
+sitename: Anthony Mun
+url: "https://hrmun.github.io"
+
+# Assets
+sass:
+  sass_dir: /assets/_sass
+  style: :compressed
+
+# Collections
+collections:
+  - section
+
+# Exclude
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE.txt
+  - CNAME
