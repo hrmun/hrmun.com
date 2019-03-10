@@ -5,7 +5,7 @@ name: About
 
 <section>
 
-<img class="pull-right" src="http://placehold.it/500x500" height="500" width="500">
+<img class="pull-right" src="resources/profile.jpg" height="300" width="300">
 <h2>About me</h2>
 
 <h3><span>Hey! My name is Anthony Mun.</span></h3>
