@@ -12,62 +12,42 @@ name: Languages
     <h3><span>Human</span></h3>
     <div class="row">
       <div class="column">
-        Mandarin
+        <p>Mandarin</p>
       </div>
       <div class="column">
-        <i class="fas fa-circle fa-xs" aria-hidden="true"></i>
-        <i class="fas fa-circle fa-xs" aria-hidden="true"></i>      
-        <i class="fas fa-circle fa-xs" aria-hidden="true"></i>      
-        <i class="fas fa-circle fa-xs" aria-hidden="true"></i>      
-        <i class="fas fa-circle fa-xs" aria-hidden="true"></i>      
+        <p><i><span>Native</span></i></p>
       </div>
     </div>
     <div class="row">
       <div class="column">
-        Cantonese
+        <p>Cantonese</p>
       </div>
       <div class="column">
-        <i class="fas fa-circle fa-xs" aria-hidden="true"></i>
-        <i class="fas fa-circle fa-xs" aria-hidden="true"></i>      
-        <i class="fas fa-circle fa-xs" aria-hidden="true"></i>      
-        <i class="fas fa-circle fa-xs" aria-hidden="true"></i>      
-        <i class="fas fa-circle fa-xs" aria-hidden="true"></i>      
+        <p><i><span>Native</span></i></p>
       </div>
     </div>
     <div class="row">
       <div class="column">
-        English
+        <p>English</p>
       </div>
       <div class="column">
-        <i class="fas fa-circle fa-xs" aria-hidden="true"></i>
-        <i class="fas fa-circle fa-xs" aria-hidden="true"></i>      
-        <i class="fas fa-circle fa-xs" aria-hidden="true"></i>      
-        <i class="fas fa-circle fa-xs" aria-hidden="true"></i> 
-        <i class="fas fa-adjust fa-xs" aria-hidden="true"></i>      
+        <p><i><span>Fluent</span></i></p>
       </div>
     </div>
     <div class="row">
       <div class="column">
-        Malay
+        <p>Malay</p>
       </div>
       <div class="column">
-        <i class="fas fa-circle fa-xs" aria-hidden="true"></i>
-        <i class="fas fa-circle fa-xs" aria-hidden="true"></i>      
-        <i class="fas fa-circle fa-xs" aria-hidden="true"></i>      
-        <i class="far fa-circle fa-xs" aria-hidden="true"></i>      
-        <i class="far fa-circle fa-xs" aria-hidden="true"></i>         
+        <p><i><span>Proficient</span></i></p>
       </div>
     </div>
     <div class="row">
       <div class="column">
-        Japanese
+        <p>Japanese</p>
       </div>
       <div class="column">
-        <i class="fas fa-circle fa-xs" aria-hidden="true"></i>
-        <i class="fas fa-circle fa-xs" aria-hidden="true"></i>      
-        <i class="fas fa-circle fa-xs" aria-hidden="true"></i>      
-        <i class="far fa-circle fa-xs" aria-hidden="true"></i>      
-        <i class="far fa-circle fa-xs" aria-hidden="true"></i>        
+        <p><i><span>Proficient</span></i></p>
       </div>
     </div>
   </div>  
@@ -75,7 +55,7 @@ name: Languages
     <h3><span>Programming</span></h3>
     <div class="row">
       <div class="column">
-        PHP
+        <p>PHP</p>
       </div>
       <div class="column">
         <div class="bar">
@@ -85,7 +65,7 @@ name: Languages
     </div>
     <div class="row">
       <div class="column">
-        JavaScript
+        <p>JavaScript</p>
       </div>
       <div class="column">
         <div class="bar">
@@ -95,7 +75,7 @@ name: Languages
     </div>
     <div class="row">
       <div class="column">
-        Swift
+        <p>Swift</p>
       </div>
       <div class="column">
         <div class="bar">
@@ -105,7 +85,7 @@ name: Languages
     </div>
     <div class="row">
       <div class="column">
-        Java
+        <p>Java</p>
       </div>
       <div class="column">
         <div class="bar">
@@ -115,7 +95,7 @@ name: Languages
     </div>
     <div class="row">
       <div class="column">
-        C++
+        <p>C++</p>
       </div>
       <div class="column">
         <div class="bar">
@@ -125,4 +105,5 @@ name: Languages
     </div>
   </div>    
 </div>
+
 </section>
