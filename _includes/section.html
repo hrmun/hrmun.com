@@ -1,10 +1,7 @@
 <main>
   
   {% for section in site.section %}
-  
-    <hr id="{{ section.id }}"">
-    <div class="lead">{{ section.content }}</div>
-
+    <hr><div class="lead">{{ section.content }}</div>
   {% endfor %}
 
   <hr>

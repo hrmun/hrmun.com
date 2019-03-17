@@ -4,25 +4,25 @@
 {% include_relative _js/jquery.js %}
 {% include_relative _js/bootstrap.min.js %}
 
-scrollTop('js-button', 500);
+$(function() {
 
-function scrollTop(elem,duration) {
-    let target = document.getElementById(elem);
+  $('a[href=#top]').hide();
 
-    target.addEventListener('click', function() 
-    {
-        let currentY = window.pageYOffset; 
-        let step = duration / currentY > 1 ? 10 : 100;
-        let timeStep = duration / currentY * step;
-        let intervalID = setInterval(scrollUp, timeStep);
-        
-        function scrollUp() {
-            currentY = window.pageYOffset;
-            if (currentY === 0) {
-                clearInterval(intervalID);
-            } else {
-                scrollBy( 0, -step );
-            }
-        }
-    });
-}
+  $('a[href=#section]').on('click', function(e) {
+    e.preventDefault();
+    $('html, body').animate({ scrollTop: $($(this).attr('href')).offset().top}, 500, 'linear');
+  });
+  
+  $('a[href=#top]').on('click', function(e) {
+    e.preventDefault();
+    $('html, body').animate({ scrollTop: $($(this).attr('href')).offset().top}, 500, 'linear');
+  });
+
+  $(window).scroll(function(e){
+    if ($(this).scrollTop() > $(this).height()) {
+      $('a[href=#top]').show();
+    } else {
+      $('a[href=#top]').hide();
+    }
+  });
+});
