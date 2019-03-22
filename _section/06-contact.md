@@ -6,9 +6,13 @@ name: Contact
 <section>
 
 <div class="contact">
-<h2>Let's get in touch</h2>
+<h2>Contact me</h2>
 
-<h3><span>Find me from here</span></h3>
+<h3><span>Let's get in touch! I like making connections.</span></h3>
+  <p>Feel free to reach out to me either personally or professionally. <br>
+    You can also find me through my social media profiles.<br>
+    <i><a href="mailto:hrmun.anthony@hotmail.com">hrmun.anthony@hotmail.com</a></i>
+  </p>
   <div class="link">
     <a href="https://www.instagram.com/hrmun.anthony/" target="_blank" class="fab fa-instagram fa-3x" ></a>
   </div>
