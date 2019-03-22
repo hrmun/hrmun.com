@@ -20,7 +20,7 @@ $(function() {
 
   $(window).scroll(function(e){
     if ($(this).scrollTop() > $(this).height()) {
-      $('a[href=#top]').show();
+      $('a[href=#top]').fadeIn(500);
     } else {
       $('a[href=#top]').hide();
     }

@@ -5,10 +5,10 @@ name: Contact
 
 <section>
 
+<div class="contact">
 <h2>Let's get in touch</h2>
 
 <h3><span>Find me from here</span></h3>
-<div class="contacts">
   <div class="link">
     <a href="https://www.instagram.com/hrmun.anthony/" target="_blank" class="fab fa-instagram fa-3x" ></a>
   </div>
