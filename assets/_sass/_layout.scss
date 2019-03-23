@@ -46,7 +46,7 @@ footer {
   }
 
   .fa-github {
-    background: #777;
+    background: #202020;
     color: white;
   }
 
@@ -63,12 +63,12 @@ footer {
 .scroll-up a span {
   position: fixed;
   right: 50px;
-  bottom: 50px;
+  bottom: 40px;
   z-index: 1;
   width: 30px;
   height: 30px;
-  border-left: 2px solid #333;
-  border-bottom: 2px solid #333;
+  border-left: 2px solid #777;
+  border-bottom: 2px solid #777;
   -webkit-transform: rotate(135deg);
   transform: rotate(135deg);
   box-sizing: border-box;
@@ -80,8 +80,8 @@ footer {
   left: 50%;
   width: 30px;
   height: 30px;
-  border-left: 2px solid #fff;
-  border-bottom: 2px solid #fff;
+  border-left: 2px solid #777;
+  border-bottom: 2px solid #777;
   -webkit-transform: rotate(-45deg);
   transform: rotate(-45deg);
   -webkit-animation: array-down 1.5s infinite;
