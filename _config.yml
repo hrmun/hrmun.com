@@ -1,8 +1,8 @@
 # Site
-title: I'm Anthony Mun
-description: My Personal Blog
+title: Anthony Mun
 sitename: Anthony Mun
-url: "https://hrmun.github.io"
+description: My name is Anthony Mun and I'm a Software Engineer.
+url: "https://www.hrmun.com"
 
 # Assets
 sass:
@@ -12,6 +12,10 @@ sass:
 # Collections
 collections:
   - section
+  
+# Plugins
+plugins:
+  - jekyll-seo-tag
 
 # Exclude
 exclude:
