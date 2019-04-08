@@ -15,7 +15,7 @@ name: Works
 
 <img class="pull-right company-logo" src="resources/company-two.jpg" height="200" width="200">
 <p class="work-detail">
-  My first job in Japan. I worked as a generalist software engineer on multiple projects mainly focused on web and mobile development. Developed several new features on existing software products for my company and researched new technologies for certain projects. Also did some upgrades on programming languages and frameworks for software products to newer version.
+  My first job in Japan. I worked as a generalist software engineer on multiple projects mainly focused on web and mobile development using various technology stacks. Developed several new features on existing software products for my company and researched new technologies for certain projects. I also assisted company in writing technical documentations, performing upgrades on programming languages and frameworks to newer version for software products.
 </p>
 
 <br>
@@ -28,7 +28,7 @@ name: Works
 
 <img class="pull-right company-logo" src="resources/company-one.jpg" height="200" width="200">
 <p class="work-detail">
-  Non-academic internship. Participated in engineering team and assisted senior software engineers in developing new features on web applications. I've experienced new technologies and practices on software development that never learned before.
+  Non-academic internship. Participated in engineering team and assisted senior software engineers in developing new features on web applications. I've gained valuable experiences by working on new technologies and learned the practices on software development in a startup like environment.
 </p>
 
 </section>
