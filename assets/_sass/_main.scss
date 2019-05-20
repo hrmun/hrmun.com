@@ -3,7 +3,7 @@ main {
 
   section { 
     overflow: hidden; 
-    line-height: 1.8;
+    line-height: 2.0;
   }
 
   img {
@@ -25,7 +25,7 @@ main {
   }
 
   p { 
-    font-size: 18px;
+    font-size: 16px;
     span { @extend .text-muted; }  
   }
 
@@ -71,7 +71,7 @@ main {
     hr { margin: 50px 0; }
     h2 { font-size: 35px; }
     h3 { font-size: 25px; }
-    p { font-size: 18px; }
+    p { font-size: 16px; }
 
     img {
       &.pull-left { margin-right: 20px; }
