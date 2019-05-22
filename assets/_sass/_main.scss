@@ -16,7 +16,7 @@ main {
 
   h2 {
     font-size: 40px;
-    // color: #0059b3;
+   // color: #0059b3;
     span { @extend .text-muted; }
   }
 
@@ -76,7 +76,18 @@ main {
   .java {width: 50%; background-color: black;}
   .c-plus-plus {width: 50%; background-color: black;}
 
-  .values { text-align: center; }
+  .values { 
+
+    table {
+      table-layout: fixed;
+      width: 100%;
+    }
+
+    table tr {
+      text-align: center;
+      vertical-align: top;
+    } 
+  }
 
   @media(max-width:1200px) {
     hr { margin: 50px 0; }
