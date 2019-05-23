@@ -50,8 +50,8 @@ name: Languages
         <tr>
           <td>
             <p>
-              Web development in PHP<br>
-              Mobile development in iOS Swift
+              Web development in PHP & JavaScript<br>
+              Mobile app development in iOS Swift
             </p>
           </td>
         </tr>
