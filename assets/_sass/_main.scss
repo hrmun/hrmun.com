@@ -76,6 +76,24 @@ main {
   .java {width: 50%; background-color: black;}
   .c-plus-plus {width: 50%; background-color: black;}
 
+  .abilities { 
+
+    .fas {
+      color: #333;
+    }
+
+    table {
+      margin-top: 20px;
+      table-layout: fixed;
+      width: 100%;
+    }
+
+    table tr {
+      text-align: center;
+      vertical-align: top;
+    }
+  }
+
   .values { 
 
     table {
