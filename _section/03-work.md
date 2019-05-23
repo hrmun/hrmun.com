@@ -5,7 +5,7 @@ name: Work
 
 <section>
 
-<h2>Work that I've done</h2>
+<h2><strong>I've been working as</strong></h2>
 
 <div class="row">
   <div class="column">

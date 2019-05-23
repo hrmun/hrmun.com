@@ -5,7 +5,7 @@ name: Languages
 
 <section>
 
-<h2>Things I can do</h2>
+<h2><strong>Things I can do</strong></h2>
 
 <div class="abilities">
 <table>

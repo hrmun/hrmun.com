@@ -5,7 +5,7 @@ name: Education
 
 <section>
 
-<h2>I am graduated from</h2>
+<h2><strong>I'm graduated from</strong></h2>
 
 <div class="row">
   <div class="column">

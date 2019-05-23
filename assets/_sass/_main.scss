@@ -14,9 +14,14 @@ main {
     &.pull-right {  margin-left: 40px;  }
   }
 
+  h1 {
+    font-size: 54px;
+    span { @extend .text-muted; }
+  }
+
   h2 {
     font-size: 40px;
-   // color: #0059b3;
+    text-align: center;
     span { @extend .text-muted; }
   }
 
@@ -76,11 +81,11 @@ main {
   .java {width: 50%; background-color: black;}
   .c-plus-plus {width: 50%; background-color: black;}
 
-  .abilities { 
+  .fas {
+    color: #333;
+  }
 
-    .fas {
-      color: #333;
-    }
+  .abilities { 
 
     table {
       margin-top: 20px;
@@ -109,6 +114,7 @@ main {
 
   @media(max-width:1200px) {
     hr { margin: 50px 0; }
+    h1 { font-size: 54px; }
     h2 { font-size: 40px; }
     h3 { font-size: 21px; }
     p { font-size: 16px; }
@@ -127,6 +133,7 @@ main {
 
   @media(max-width:991px) {
     hr { margin: 40px 0; }
+    h1 { font-size: 42px; }
     h2 { font-size: 30px; }
     h3 { font-size: 18px; }
     p { font-size: 16px; }
@@ -146,6 +153,7 @@ main {
 
   @media(max-width:768px) {
     hr { margin: 40px 0; }
+    h1 { font-size: 32px; }
     h2 { font-size: 25px; }
     h3 { font-size: 16px; }
     p { font-size: 14px; }
