@@ -10,11 +10,11 @@ name: Languages
 <div class="abilities">
   <table>
     <tr>
-      <td><i class="fas fa-globe fa-3x"></i>
+      <td><i class="fas fa-globe fa-2x"></i>
           <h3><strong>Languages</strong></h3></td>
-      <td><i class="fas fa-code fa-3x"></i>
+      <td><i class="fas fa-code fa-2x"></i>
           <h3><strong>Programming</strong></h3></td>
-      <td><i class="fas fa-laptop-code fa-3x"></i>
+      <td><i class="fas fa-laptop-code fa-2x"></i>
           <h3><strong>Software Development</strong></h3></td>
     </tr>
     <tr>

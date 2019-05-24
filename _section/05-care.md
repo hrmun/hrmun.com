@@ -10,15 +10,15 @@ name: Care
 <div class="care">
   <table>
     <tr>
-      <td><i class="fas fa-cogs fa-3x"></i>
+      <td><i class="fas fa-cogs fa-2x"></i>
           <h3><strong>Technology</strong></h3></td>
-      <td><i class="fas fa-rocket fa-3x"></i>
+      <td><i class="fas fa-rocket fa-2x"></i>
           <h3><strong>Startup & Venture</strong></h3></td>
-      <td><i class="fas fa-heartbeat fa-3x"></i>
+      <td><i class="fas fa-heartbeat fa-2x"></i>
           <h3><strong>Health</strong></h3></td>
-      <td><i class="fas fa-seedling fa-3x"></i>
+      <td><i class="fas fa-seedling fa-2x"></i>
           <h3><strong>Personal growth</strong></h3></td>
-      <td><i class="fas fa-handshake fa-3x"></i>
+      <td><i class="fas fa-handshake fa-2x"></i>
           <h3><strong>Human relations</strong></h3></td>
     </tr>
   </table>
