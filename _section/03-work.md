@@ -9,7 +9,7 @@ name: Work
 
 <div class="row">
   <div class="column">
-    <div class="company">
+    <div class="work">
       <h3><strong>WEBIMPACT, INC @ Tokyo, Japan</strong></h3>
       <p>
         <i>September 2017 - Present</i><br>
@@ -30,7 +30,7 @@ name: Work
 
 <div class="row">
   <div class="column">
-    <div class="company">
+    <div class="work">
       <h3><strong>Digi-X @ Kuala Lumpur, Malaysia</strong></h3>
       <p>
         <i>May 2017 - July 2017</i><br>

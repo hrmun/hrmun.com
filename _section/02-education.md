@@ -9,7 +9,7 @@ name: Education
 
 <div class="row">
   <div class="column">
-    <div class="company">
+    <div class="education">
       <h3><strong>UOW @ New South Wales, Australia</strong></h3>
       <p>
         <i>March 2014 - January 2017</i><br>
@@ -21,8 +21,7 @@ name: Education
   <div class="column">
      <h3><strong>Bachelor of Computer Science</strong></h3>
     <p>
-      I graduated from University of Wollongong (UOW) with a degree in Computer Science and achieved 
-      distinction upon graduation. Throughout my years at University, I started to get interested in software industry and entrepreneurship.
+      I received a bachelor degree in Computer Science with distinction from University of Wollongong (UOW), Australia. Throughout my years at University, I started to get interested in software industry and entrepreneurship.
     </p>
   </div>
 </div>
