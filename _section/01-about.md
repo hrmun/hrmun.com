@@ -14,7 +14,7 @@ name: About
     Ethnically Chinese who born in Malaysia and grew up in Kuala Lumpur.
     After graduating from university, I moved to Japan and start my career in tech industry.<br><br>
     
-    Multilingual. I speak both human and programming languages. 
+    Multilingual. I speak both human and coding languages. 
     Constantly driven by curiosity and likes to understand how things work. 
     Experienced in developing web and mobile applications.
     My main interests are technology, startup, languages and psychology.<br><br>
