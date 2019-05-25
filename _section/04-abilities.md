@@ -1,6 +1,6 @@
 ---
-id: languages
-name: Languages
+id: abilities
+name: Abilities
 ---
 
 <section>

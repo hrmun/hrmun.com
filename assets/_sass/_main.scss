@@ -15,7 +15,7 @@ main {
   }
 
   h1 {
-    font-size: 54px;
+    font-size: 50px;
     span { @extend .text-muted; }
   }
 
@@ -81,8 +81,8 @@ main {
   .java {width: 50%; background-color: black;}
   .c-plus-plus {width: 50%; background-color: black;}
 
-  .fas {
-    color: #333;
+  .about {
+    margin-top: 40px;
   }
 
   .abilities { 

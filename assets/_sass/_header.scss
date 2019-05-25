@@ -4,11 +4,48 @@ header {
   overflow: hidden;
   width: 100%;
   min-height: 100vh;
-  padding: 110px 0;
+  padding: 230px 0;
   color: white;
   background: #181818;
+  background-position: center; 
+  background-image: linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.5)), url("/resources/background.jpg");
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
+
+  .signature {
+    position: absolute;
+    top: 70px;
+    left: 70px;
+
+    img {
+      border-radius: 0;
+      width: 120px;
+    }
+  }
+
+  .container {
+    text-align: right;
+    line-height: 0;
+
+    hr { margin: 50px 0; }
+  }    
+}
+
+.read {
+  margin: 80px auto;
+
+  a {
+    padding: 15px 45px 15px 45px;
+    border: 1px solid white;
+    position: relative;
+    color: white;
+    text-decoration: none;
+  }
+
+  a:hover {
+    color: #181818;
+    background: white;
+  }
 }
