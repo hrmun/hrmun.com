@@ -21,7 +21,7 @@ name: Work
   <div class="column">
     <h3><strong>Software Development Engineer</strong></h3>
     <p>
-      My first job in Japan. I worked as a generalist software engineer on multiple projects mainly focused on web and mobile development using various technology stacks. Developed several new features on existing software products for my company and researched new technologies for certain projects. I also assisted company in writing technical documentations, performing upgrades on programming languages and frameworks to newer version for software products.<br>
+      First job in Japan. Worked as a generalist software engineer on multiple projects mainly focused on web and mobile development using various technology stacks.<br>
     </p>
   </div>
 </div>
@@ -42,7 +42,7 @@ name: Work
   <div class="column">
      <h3><strong>Technical intern</strong></h3>
     <p>
-      Non-academic internship. Participated in engineering team and assisted senior software engineers in developing new features on web applications. I've gained valuable experiences by working on new technologies and learned the practices on software development in a startup like environment.<br>
+      Non-academic internship. Participated in engineering team and assisted in developing new features on web applications.<br>
     </p>
   </div>
 </div>

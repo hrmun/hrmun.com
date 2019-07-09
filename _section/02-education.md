@@ -21,7 +21,7 @@ name: Education
   <div class="column">
      <h3><strong>Bachelor of Computer Science</strong></h3>
     <p>
-      I received a bachelor degree in Computer Science with distinction from University of Wollongong (UOW), Australia. Throughout my years at University, I started to get interested in software industry and entrepreneurship.
+      Received a bachelor degree in Computer Science with distinction from University of Wollongong (UOW), Australia.
     </p>
   </div>
 </div>
