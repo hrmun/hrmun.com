@@ -15,9 +15,7 @@ name: Care
       <td><i class="fas fa-rocket fa-2x"></i>
           <h3><strong>Startup & Venture</strong></h3></td>
       <td><i class="fas fa-heartbeat fa-2x"></i>
-          <h3><strong>Health</strong></h3></td>
-      <td><i class="fas fa-seedling fa-2x"></i>
-          <h3><strong>Personal growth</strong></h3></td>
+          <h3><strong>Health & Fitness</strong></h3></td>
       <td><i class="fas fa-handshake fa-2x"></i>
           <h3><strong>Human relations</strong></h3></td>
     </tr>
