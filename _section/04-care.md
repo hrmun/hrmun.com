@@ -5,7 +5,7 @@ name: Care
 
 <section>
 
-<h2><strong>What I care about</strong></h2>
+<h2><strong>Things I care about</strong></h2>
 
 <div class="care">
   <table>

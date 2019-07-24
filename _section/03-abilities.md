@@ -5,7 +5,7 @@ name: Abilities
 
 <section>
 
-<h2><strong>Things I can do</strong></h2>
+<h2><strong>What I can do</strong></h2>
 
 <div class="abilities">
   <table>

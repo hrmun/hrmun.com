@@ -5,7 +5,7 @@ name: Values
 
 <section>
 
-<h2><strong>My personal values</strong></h2>
+<h2><strong>Personal values</strong></h2>
 
 <div class="values">
   <table>
