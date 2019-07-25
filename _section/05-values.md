@@ -19,7 +19,7 @@ name: Values
       <td><h3><strong>Simplicity</strong></h3>
         <p>Be simple to get more.</p></td>
       <td><h3><strong>Humor</strong></h3>
-        <p>Don't take yourself too seriously.</p></td>
+        <p>Be fun around people.</p></td>
     </tr>
   </table>
 </div>

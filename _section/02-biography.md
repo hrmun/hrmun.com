@@ -16,13 +16,13 @@ name: Biography
         </div>
       </td>
       <td>
-        <h3><strong>UOW @ New South Wales, Australia</strong></h3>
+        <h3><strong>University of Wollongong @ New South Wales, Australia</strong></h3>
       </td>
     </tr>
     <tr>
       <td>
         <p>
-          Received a bachelor degree in Computer Science with distinction from University of Wollongong (UOW), Australia. Throughout my years at University, I started to get interested in software industry and entrepreneurship.
+          Received a bachelor degree in Computer Science with distinction.
         </p>
       </td>
     </tr>

@@ -22,7 +22,7 @@ name: Abilities
         <p>
           Native in Mandarin & Cantonese<br>
           Fluent in English<br>
-          Proficient in Malay & Japanese
+          Business in Malay & Japanese
         </p>
       </td>
       <td>
