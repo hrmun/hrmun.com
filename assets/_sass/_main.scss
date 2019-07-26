@@ -1,5 +1,5 @@
 main {
-  hr { margin: 70px 0; }
+  hr { margin: 50px 0 50px 0; }
 
   section { 
     overflow: hidden; 
@@ -53,13 +53,17 @@ main {
     width: 90%;
     margin: 0 auto;
 
-    table {
+    table, td {
       margin-top: 20px;
       table-layout: fixed;
+      border-collapse: collapse;
     }
 
     table tr { border-left: 1px solid; }
-    table td { vertical-align: top; }
+    table td { 
+      vertical-align: top; 
+      padding-bottom: 15px;
+    }
 
     .rowspan { width: 30%; }
 
