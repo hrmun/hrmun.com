@@ -1,11 +1,11 @@
 ---
-id: care
-name: Care
+id: interest
+name: Interest
 ---
 
 <section>
 
-<h2><strong>Things I care about</strong></h2>
+<h2><strong>Area of interest</strong></h2>
 
 <div class="care">
   <table>
@@ -16,8 +16,8 @@ name: Care
           <h3><strong>Startup & Venture</strong></h3></td>
       <td><i class="fas fa-heartbeat fa-2x"></i>
           <h3><strong>Health & Fitness</strong></h3></td>
-      <td><i class="fas fa-handshake fa-2x"></i>
-          <h3><strong>Human relations</strong></h3></td>
+      <td><i class="fas fa-globe fa-2x"></i>
+          <h3><strong>Languages</strong></h3></td>
     </tr>
   </table>
 </div>
