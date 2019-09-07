@@ -1,6 +1,5 @@
 main {
-  hr { margin: 50px 0 50px 0; }
-
+  
   section { 
     overflow: hidden; 
     line-height: 2.0;
@@ -15,18 +14,18 @@ main {
   }
 
   h1 {
-    font-size: 50px;
+    font-size: 40px;
     span { @extend .text-muted; }
   }
 
   h2 {
-    font-size: 35px;
-    text-align: center;
+    font-size: 25px;
     span { @extend .text-muted; }
   }
 
   h3 {
-    font-size: 20px;
+    font-size: 18px;
+    line-height: 1.5;
     span { @extend .text-muted; }
   }
 
@@ -47,72 +46,29 @@ main {
     }
   }
 
-  .about { margin-top: 30px; }
+  .lead {
+    margin: 25px 0 35px 0;
+  }
 
-  .biography {
-    width: 90%;
+  .content { margin-top: 25px; }
+
+  .block {
     margin: 0 auto;
-
-    table, td {
-      margin-top: 20px;
-      table-layout: fixed;
-      border-collapse: collapse;
-    }
-
-    table tr { border-left: 1px solid; }
-    table td { 
-      vertical-align: top; 
-      padding-bottom: 15px;
-    }
-
-    .rowspan { width: 30%; }
-
-    .date {
-      margin: 0 auto;      
-      width: 65%;
-    }
+    display: inline-block;
+    vertical-align: top; 
+    width: 200px;
+    padding: 0 5px 0 0;
   }
 
-  .abilities { 
-    table {
-      margin-top: 40px;
-      table-layout: fixed;
-      width: 100%;
-    }
+  .event { width: 80%; }
 
-    table tr {
-      text-align: center;
-      vertical-align: top;
-    }
-  }
-
-  .care {
-    table {
-      margin-top: 40px;
-      table-layout: fixed;
-      width: 100%;
-      text-align: center;
-    }
-  }
-
-  .values { 
-    table {
-      margin-top: 20px;
-      table-layout: fixed;
-      width: 100%;
-    }
-
-    table tr {
-      text-align: center;
-      vertical-align: top;
-    } 
-  }
+  .fas { width: 30px; }
 
   @media(max-width:1200px) {
-    hr { margin: 50px 0; }
-    h1 { font-size: 50px; }
-    h2 { font-size: 35px; }
-    h3 { font-size: 20px; }
+    hr { margin: 20px 0; }
+    h1 { font-size: 40px; }
+    h2 { font-size: 25px; }
+    h3 { font-size: 18px; }
     p { font-size: 14px; }
 
     img {
@@ -121,11 +77,11 @@ main {
     }
   }
 
-  @media(max-width:991px) {
-    hr { margin: 40px 0; }
-    h1 { font-size: 50px; }
-    h2 { font-size: 35px; }
-    h3 { font-size: 20px; }
+  @media(max-width:990px) {
+    hr { margin: 20px 0; }
+    h1 { font-size: 40px; }
+    h2 { font-size: 25px; }
+    h3 { font-size: 18px; }
     p { font-size: 14px; }
 
     img {
@@ -136,31 +92,26 @@ main {
   }
 
   @media(max-width:768px) {
-    hr { margin: 40px 0; }
-    h1 { font-size: 45px; }
-    h2 { font-size: 30px; }
+    hr { margin: 15px 0; }
+    h1 { font-size: 35px; }
+    h2 { font-size: 20px; }
     h3 { font-size: 16px; }
     p { font-size: 12px; }
   }
 
   @media(max-width:668px) {
-    hr { margin: 30px 0; }
-    h1 { font-size: 45px; }
-    h2 { font-size: 30px; }
+    hr { margin: 15px 0; }
+    h1 { font-size: 35px; }
+    h2 { font-size: 20px; }
     h3 { font-size: 16px; }    
     p { font-size: 12px; }
   }
 
   @media(max-width:600px) {  
-    h1 { font-size: 45px; }
-    h2 { font-size: 30px; }
+    h1 { font-size: 35px; }
+    h2 { font-size: 20px; }
     h3 { font-size: 16px; }
     p { font-size: 12px; }
-
-    .column {
-      flex: 100%;
-      margin-top: 10px;
-    }
   }
 
   @media(max-width:400px) {

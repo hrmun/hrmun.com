@@ -7,21 +7,25 @@ name: Values
 
 <h2><strong>Personal values</strong></h2>
 
-<div class="values">
-  <table>
-    <tr>
-      <td><h3><strong>Freedom</strong></h3>
-        <p>Live without constraints.</p></td>
-      <td><h3><strong>Wisdom</strong></h3>
-        <p>Be wise and knowledgeable.</p></td>
-      <td><h3><strong>Curiosity</strong></h3>
-        <p>Always explore and learn.</p></td>
-      <td><h3><strong>Simplicity</strong></h3>
-        <p>Be simple to get more.</p></td>
-      <td><h3><strong>Humor</strong></h3>
-        <p>Be fun around people.</p></td>
-    </tr>
-  </table>
+<div class="block">
+  <h3>Freedom</h3>
+  <p><span>Live without constraints.</span></p>
+</div>
+<div class="block">
+  <h3>Wisdom</h3>
+  <p><span>Be wise and knowledgeable.</span></p>
+</div>
+<div class="block">
+  <h3>Curiosity</h3>
+  <p><span>Always explore and learn.</span></p>
+</div>
+<div class="block">
+  <h3>Simplicity</h3>
+  <p><span>Be simple to get more.</span></p>
+</div>
+<div class="block">
+  <h3>Humor</h3>
+  <p><span>Be fun around people.</span></p>
 </div>
 
 </section>

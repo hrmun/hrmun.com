@@ -7,19 +7,16 @@ name: Interest
 
 <h2><strong>Area of interest</strong></h2>
 
-<div class="care">
-  <table>
-    <tr>
-      <td><i class="fas fa-cogs fa-2x"></i>
-          <h3><strong>Technology</strong></h3></td>
-      <td><i class="fas fa-rocket fa-2x"></i>
-          <h3><strong>Startup & Venture</strong></h3></td>
-      <td><i class="fas fa-heartbeat fa-2x"></i>
-          <h3><strong>Health & Fitness</strong></h3></td>
-      <td><i class="fas fa-globe fa-2x"></i>
-          <h3><strong>Languages</strong></h3></td>
-    </tr>
-  </table>
+<div class="content">
+  <div class="block">
+    <p><i class="fas fa-cogs fa-s"></i><span>Technology</span></p>
+    <p><i class="fas fa-rocket fa-s"></i><span>Startup & Venture</span></p>
+  </div>
+
+  <div class="block">
+    <p><i class="fas fa-heartbeat fa-s"></i><span>Health & Fitness</span></p>
+    <p><i class="fas fa-globe fa-s"></i><span>Language & Culture</span></p>
+  </div>
 </div>
 
 </section>
