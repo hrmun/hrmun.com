@@ -26,8 +26,7 @@ name: Timeline
   <div class="block event">
     <h3>Digi-X @ Kuala Lumpur, Malaysia</h3>
     <p><span>
-      Non-academic internship. Collaborated with engineering team in developing software products.
-      I've gained industry experience by working in a startup like environment.
+      Non-academic internship. Collaborated with engineering team in developing software products and gained industry experience in a startup like environment.
     </span></p>
   </div>
 </div>
@@ -39,7 +38,7 @@ name: Timeline
   <div class="block event">
     <h3>WEBIMPACT, INC @ Tokyo, Japan</h3>
     <p><span>
-      First full-time job in Japan. Worked as a generalist software engineer for web app and mobile app development using various open source technologies.
+      First full-time job in Japan. Joined as a fresh graduate and worked as a generalist software engineer for web app and mobile app development.
     </span></p>
   </div>
 </div>
